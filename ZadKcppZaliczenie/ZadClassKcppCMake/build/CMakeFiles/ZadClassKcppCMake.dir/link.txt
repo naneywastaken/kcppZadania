@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ZadClassKcppCMake.dir/src/Menu.cc.o CMakeFiles/ZadClassKcppCMake.dir/src/MethodsCollection.cc.o CMakeFiles/ZadClassKcppCMake.dir/main.cc.o -o ZadClassKcppCMake 

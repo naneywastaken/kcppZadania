@@ -1,0 +1,3 @@
+/home/naney/Programming/KcppZadania/kcppZadania/ZadClassKcppCMake/build/CMakeFiles/ZadClassKcppCMake.dir
+/home/naney/Programming/KcppZadania/kcppZadania/ZadClassKcppCMake/build/CMakeFiles/edit_cache.dir
+/home/naney/Programming/KcppZadania/kcppZadania/ZadClassKcppCMake/build/CMakeFiles/rebuild_cache.dir
