@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ZadClassKcpp.dir/src/Menu.cc.o CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.o CMakeFiles/ZadClassKcpp.dir/main.cc.o -o ZadClassKcpp 
